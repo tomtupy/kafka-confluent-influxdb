@@ -1,0 +1,2 @@
+Kafka Connect:
+$  docker build -t connect-influxdb-postgres .
